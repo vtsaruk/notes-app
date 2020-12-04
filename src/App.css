@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.note-edit-page {
+  display: flex;
+}
+
+.note-page {
+  display: flex;
+}
+
+.article-cell {
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.article-list {
+  list-style: none;
+}
